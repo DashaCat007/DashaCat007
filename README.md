@@ -6,7 +6,7 @@
 
 Я начинающий тестировщик. Я ещё только учусь, но уже многое умею!
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=red)](mailto:podarochek1997@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:podarochek1997@gmail.com)
 
 ---
 
